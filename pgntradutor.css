@@ -15,9 +15,10 @@ textarea {
     max-height: 40%;
     width: 50em;
     max-width: 90%;
+    margin-bottom: 2em
 }
 
 button {
-    margin: 2em 0;
+    margin: 0em 0 2em 0;
     padding: 1em 3em;
 }
