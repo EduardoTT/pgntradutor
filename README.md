@@ -26,3 +26,5 @@ Fontoura, Alexandre Souza (1873) - Fier, Alexandr (2563)
 87o Campeonato Brasileiro Absoluto Final Aberta (Cuiaba MT), 28.10.2021
 
 Texto entre colchetes `[]` é ignorado 
+
+[Ir para o site](https://eduardott.github.io/pgntradutor/index.html)
