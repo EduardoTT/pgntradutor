@@ -1,10 +1,10 @@
-function translate() {
+function translatePGN() {
     const from = document.getElementById('from')
     const to = document.getElementById('to')
 
     let fromString = from.value
     let isBetweenBrackets = false
-    for (i=0; i<fromString.length; i++) {
+    for (let i=0; i<fromString.length; i++) {
         let char = fromString.charAt(i)
         if (char === '[') {
             isBetweenBrackets = true
