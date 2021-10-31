@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+h1,
+h2 {
+    font-family: 'Arial';
+}
+
+textarea {
+    height: 20em;
+    max-height: 40%;
+    width: 50em;
+    max-width: 90%;
+}
+
+button {
+    margin: 2em 0;
+    padding: 1em 3em;
+}
